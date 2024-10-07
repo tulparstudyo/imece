@@ -1,5 +1,5 @@
 # imece
-Dağıtık ve merkeziyetsiz etkileşimli tahta kilit sistemi. 
+Açık kaynak kodlu, Dağıtık ve Merkeziyetsiz etkileşimli tahta kilit sistemi. 
 
 1. Secretkey ve public bilgilerin bulunduğu tek sefer üretilen ve üretici tarafından saklanmayan deploy.json dosyası
    ```
