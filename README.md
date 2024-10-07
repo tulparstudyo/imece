@@ -17,10 +17,11 @@ Dağıtık ve merkeziyetsiz etkileşimli tahta kilit sistemi.
            "client_name": "Akıllı Tahta"
        }
     }
-```
+
+
 Bu dosya bir kez üretilir ve sunucuda saklanmaz. Kullanıcı bu dosyayı uygulamayı etkileşimli tahtalara kurmak ve kaldırmak için ihtiyaç duyar
 
-3. deploy.json dosyası kullanarak etkileşimli tahtalara uygulamanın kuruluşu
-4. Uygulama ile kullanıcı etkileşimi
-5. Uygulama ile sunucu etkileşimi
-6. Uygulamamnın kaldırılması
+2. deploy.json dosyası kullanarak etkileşimli tahtalara uygulamanın kuruluşu
+3. Uygulama ile kullanıcı etkileşimi
+4. Uygulama ile sunucu etkileşimi
+5. Uygulamamnın kaldırılması
