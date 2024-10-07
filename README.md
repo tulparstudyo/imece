@@ -19,7 +19,7 @@ Açık kaynak kodlu, Dağıtık ve Merkeziyetsiz etkileşimli tahta kilit sistem
     }
 
 
-Bu dosya bir kez üretilir ve sunucuda saklanmaz. Kullanıcı bu dosyayı uygulamayı etkileşimli tahtalara kurmak ve kaldırmak için ihtiyaç duyar
+Bu dosya bir kez üretilir ve secret key sunucuda saklanmaz. webservis kullanıcı bilgilerinin ve şifresinin güncellenmesine izin verilir. Kullanıcı adı ve şifre basic auth metodu ile sunucuda hesap işlemlerinin yapılması amacıyla kullanılır Kullanıcı bu dosyayı, uygulamayı etkileşimli tahtalara kurmak ve kaldırmak için ihtiyaç duyar
 
 2. deploy.json dosyası kullanarak etkileşimli tahtalara uygulamanın kuruluşu
 3. Uygulama ile kullanıcı etkileşimi
