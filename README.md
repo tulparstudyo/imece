@@ -18,6 +18,7 @@ Dağıtık ve merkeziyetsiz etkileşimli tahta kilit sistemi.
        }
     }
 ```
+Bu dosya bir kez üretilir ve sunucuda saklanmaz. Kullanıcı bu dosyayı uygulamayı etkileşimli tahtalara kurmak ve kaldırmak için ihtiyaç duyar
 
 3. deploy.json dosyası kullanarak etkileşimli tahtalara uygulamanın kuruluşu
 4. Uygulama ile kullanıcı etkileşimi
